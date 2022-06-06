@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<script src="https://cdn.tailwindcss.com"></script>
-	<script type="text/javascript">
+	<script type="text/javascript" defer>
 		tailwind.config = {
       theme: {
         extend: {
